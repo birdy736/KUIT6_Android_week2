@@ -16,10 +16,8 @@ import androidx.navigation.NavDestination.Companion.hasRoute
 import androidx.navigation.compose.currentBackStackEntryAsState
 import androidx.navigation.compose.rememberNavController
 import com.kuit.kuit6android.navigation.BottomNavBar
-import com.kuit.kuit6android.navigation.BottomNavBarItem
 import com.kuit.kuit6android.navigation.MainNavHost
 import com.kuit.kuit6android.navigation.NavTab
-import com.kuit.kuit6android.navigation.Route
 import com.kuit.kuit6android.ui.theme.KUIT6_ANDROIDTheme
 
 class MainActivity : ComponentActivity() {
